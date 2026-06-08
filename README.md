@@ -154,7 +154,7 @@ npm/yarn       ✓
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/samiksha-bansal1/FoodRescue.git
+git clone https://github.com/Nupurpusha/Foodrescue-Initiative.git
 cd foodrescue
 
 # 2️⃣ Install dependencies
