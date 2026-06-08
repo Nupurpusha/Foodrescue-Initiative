@@ -496,7 +496,7 @@ Open a feature request with:
 
 **Need Help or Want to Collaborate?**
 
-📧 **Email:** [samikshabansal2005@gmail.com](mailto:nupurpusha03@gmail.com)  
+📧 **Email:** [nupurpusha03@gmail.com](mailto:nupurpusha03@gmail.com)  
 💻 **GitHub:** [View Repository](https://github.com/Nupurpusha/Foodrescue-Initiative)
 
 ---
